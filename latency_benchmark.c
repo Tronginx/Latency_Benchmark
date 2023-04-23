@@ -8,8 +8,10 @@
 #include <time.h>
 
 #define PORT 8888
-#define IP_SENDER "128.105.144.165"
-#define IP_RECEIVER "128.105.144.160"
+
+//fill your sender and receiver IP address below
+#define IP_SENDER ""
+#define IP_RECEIVER ""
 #define NUM_TRIALS 1000
 
 int MESSAGE_SIZE = 1024;
